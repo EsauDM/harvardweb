@@ -1,0 +1,42 @@
+#searchbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#bar{
+    border-radius: 50px;
+    border-width: thin;
+    width: 900px;
+    height: 35px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+#butao{
+    align-items: center;
+    justify-content: center;
+    margin-left: 390px;
+    margin-top: 10px;
+}
+
+#links{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+#is{
+    margin-right: 10px;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0%;
+    margin-right: 10px;
+}
